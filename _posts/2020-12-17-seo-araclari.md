@@ -30,6 +30,8 @@ Web sitenizi Google arama sonuçlarında en üst sıralarda tutmanıza, ziyaret�
 
 <h3> Exploding Topics </h3>
 
+Exploding Topics, hızlıca büyüyen anahtar kelimelerin son 5 yıllık performansını takip edebilirsiniz.
+
 <img alt="Exploding Topics" title="Exploding Topics" src="/img/Exploding-Topics.png">
 
 <h3> Google Alerts </h3>
