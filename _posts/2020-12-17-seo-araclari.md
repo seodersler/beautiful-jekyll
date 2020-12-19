@@ -14,6 +14,8 @@ Bugün sizlere ücretsiz en iyi SEO araçları koleksiyonunu vermekten mutluluk 
 
 <h2> Ücretsiz En iyi SEO Araçları </h2>
 
+Web sitenizi Google arama sonuçlarında en üst sıralarda tutmanıza, ziyaretçi ve potansiyel müşteri kazanmanıza yardımcı olacak ücretsiz en iyi SEO araçlarını karıişık bir şekilde listeleyip tek tek inceleyeceğiz.
+
 <h3> Also Asked </h3>
 
 <img alt="Also Asked" title="Also Asked" src="/img/Also-Asked.png">
