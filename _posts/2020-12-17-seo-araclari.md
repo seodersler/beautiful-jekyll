@@ -42,6 +42,12 @@ Google Alerts sayesinde sizin hakkınızda neler söylediklerini, ayrıca anahta
 
 <h3> Headline Analyzer </h3>
 
+Yaygın başlıklar olan, en iyi, 2020, rehber gibi alışagelmiş sa<yfa başlıklarını kullanıcılar artık görmek istemeyebilir.
+
+Headline Analyzer sayesinde daha güçlü sayfa başlıkları oluşturabilir ve kullanıcılarınızı daha iyi anlamanıza yardımcı olabilir.
+
+Headline Analyzer, şimdilik Türkçe dilini desteklemediğini belirtmekte fayda var.
+
 <img alt="Headline Analyzer" title="Headline Analyzer" src="/img/Headline-Analyzer.png">
 
 <h3> HEADMaster SEO </h3>
