@@ -122,6 +122,10 @@ Sayfa başlığı ile meta açıklamasındaki karakter sayısını hesaplayarak 
 
 <h3> Measure Web.dev </h3>
 
+Kullanıcı deneyiminin kalitesini optimize etmek, web üzerindeki herhangi bir web sitenin uzun vadeli başarısının anahtarıdır.
+
+İster işletme sahibi, ister pazarlamacı veya blog yazarı olun. Web.dev sitenizin deneyimini ölçmenize ve iyileştirme fırsatlarını belirlemenize yardımcı olabilir.
+
 <img alt="Measure Web.dev" title="Measure Web.dev" src="/img/Measure-Webdev.png">
 
 <h3> Ahrefs Backlink Checker </h3>
