@@ -88,6 +88,12 @@ Headline Analyzer, şimdilik Türkçe dilini desteklemediğini belirtmekte fayda
 
 <h3> Ahrefs SEO Toolbar </h3>
 
+Ahrefs SEO Toolbar, Firefox ve Chrome eklentisidir.
+
+URL adreslerinin 200, 301 vb. durum kodlarını öğrenebilir. Paylaştığınız içerikler de iç veya dış bağlantı sayıları.
+
+Sayfa başlığı ile meta açıklamasındaki karakter sayısını hesaplayarak içeriğinizde ki karakter sayısını da hesaplama yarayan faydalı bir SEO aracı.
+
 <img alt="Ahrefs SEO Toolbar" title="Ahrefs SEO Toolbar" src="/img/Ahrefs-SEO-Toolbar.png">
 
 <h3> A/B Testing Calculator </h3>
